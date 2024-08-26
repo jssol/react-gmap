@@ -8,6 +8,7 @@
     pkgs.nodejs_20
     pkgs.nodePackages.firebase-tools
     pkgs.openssh
+    pkgs.gh
   ];
   # Sets environment variables in the workspace
   env = {};
